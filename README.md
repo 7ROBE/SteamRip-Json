@@ -10,6 +10,7 @@ This JSON file contains a comprehensive list of PC games scraped from [SteamRip]
 - **Encoding:** UTF-8
 - **Format:** Standard JSON
 - **Top-level key:** `"downloads"` – contains an array of game entries
+- **JSON Preview** [SteamRip JSON](https://raw.githubusercontent.com/7ROBE/SteamRip-Json/refs/heads/main/steamrip_games.json)
 
 ---
 
@@ -30,3 +31,4 @@ Each entry in the `downloads` array includes the following fields:
     ...
   ]
 }
+
